@@ -47,9 +47,9 @@ def validate_token_locally(token):
 license_key = input("ᴍᴀꜱᴜᴋᴋᴀɴ ᴛᴏᴋᴇɴ ᴀɴᴅᴀ: ").strip()
 
 if validate_token_locally(license_key):
-    print(Fore.GREEN + "Nice, Token valid")
+    print(Fore.GREEN + "ɴɪᴄᴇ, ᴛᴏᴋᴇɴ ᴠᴀʟɪᴅ")
 else:
-    print(Fore.RED + "Token tidak valid, Hubungi thirteenx2023@gmail.com")
+    print(Fore.RED + "ᴛᴏᴋᴇɴ ᴛɪᴅᴀᴋ ᴠᴀʟɪᴅ, ʜᴜʙᴜɴɢɪ ᴛʜɪʀᴛᴇᴇɴx2023@ɢᴍᴀɪʟ.ᴄᴏᴍ")
     exit()
 
 channel_id = input("ᴍᴀꜱᴜᴋᴋᴀɴ ɪᴅ ᴄʜᴀɴɴᴇʟ: ").strip()
