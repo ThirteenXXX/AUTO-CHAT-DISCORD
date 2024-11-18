@@ -11,5 +11,3 @@ $ pip install requests colorama pytz
 $ pkg install nano -y
 
 $ pkg install openssl
-
-# Script Create By Thirteen𝕏
