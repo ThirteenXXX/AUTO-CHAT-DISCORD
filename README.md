@@ -2,6 +2,8 @@
 
 $ pkg update && pkg upgrade
 
+$ pkg install git -y
+
 $ pkg install python -y
 
 $ pip install --upgrade pip
