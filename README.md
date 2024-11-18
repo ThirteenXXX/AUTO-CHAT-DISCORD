@@ -12,4 +12,4 @@ $ pkg install nano -y
 
 $ pkg install openssl
 
-Script Create By Thirteen𝕏
+# Script Create By Thirteen𝕏
