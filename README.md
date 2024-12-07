@@ -1,15 +1,28 @@
-# INSTALL RECRUITMENT
+# Instalasi
 
-$ pkg update && pkg upgrade
+Ikuti langkah-langkah berikut untuk menjalankan bot di Termux:
 
-$ pkg install git -y
+1️⃣ Clone Repositori
 
-$ pkg install python -y
+Clone proyek ini ke perangkat Anda:
 
-$ pip install --upgrade pip
+git clone https://github.com/username/nama-repo.git
+cd nama-repo
 
-$ pip install requests colorama pytz
+2️⃣ Instal Dependensi
 
-$ pkg install nano -y
+Instal semua pustaka Python yang diperlukan:
 
-$ pkg install openssl
+pkg update && pkg upgrade
+
+pkg install git -y
+
+pkg install python -y
+
+pip install --upgrade pip
+
+pip install requests colorama pytz
+
+pkg install nano -y
+
+pkg install openssl
