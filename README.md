@@ -6,8 +6,8 @@ Ikuti langkah-langkah berikut untuk menjalankan bot di Termux:
 
 Clone proyek ini ke perangkat Anda:
 
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
+git clone https://github.com/ThirteenXXX/AUTO-CHAT-DISCORD.V1
+cd AUTO-CHAT-DISCORD.V1
 
 2️⃣ Instal Dependensi
 
